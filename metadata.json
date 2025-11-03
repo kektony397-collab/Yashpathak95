@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Material You Utility Tools",
+  "description": "A mobile-first React single-page app showcasing a list of utility tools, designed with Material Design 3 principles. It features bilingual (English/Hindi) titles and descriptions for each tool.",
+  "requestFramePermissions": []
+}
